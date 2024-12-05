@@ -1,0 +1,9 @@
+git clone [URL]
+
+git add [chemin de fichier] (ou "." pour ajouter tous qui existe dans le depot locale)
+
+git commit -m "[message]"
+
+git push
+
+git pull
